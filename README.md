@@ -36,7 +36,6 @@ The links above point to externally hosted files. **They are not public, unrestr
 | File | Purpose |
 | :-- | :-- |
 | `README.md` | Project homepage and dataset summary |
-| `.gitignore` | Local safeguards against committing notebooks, data and secrets |
 
 ## Data access and usage
 
